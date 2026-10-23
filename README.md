@@ -1,1 +1,8 @@
 # forked-repo
+$ git remote -v
+
+origin  https://github.com/YOUR-GITHUB-USERNAME/mcino-Introduction-to-Git-and-GitHub.git (fetch)
+origin  https://github.com/YOUR-GITHUB-USERNAME/mcino-Introduction-to-Git-and-GitHub.git (push)
+
+upstream  https://github.com/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub.git (fetch)
+upstream  https://github.com/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub.git (push)
